@@ -10,6 +10,7 @@ def generate_secretIds(names):
     df = df.reset_index()
     df.to_csv("santa_data.csv", index=False)
     st.success('SecretId data dumped. ')
+    print(df)
 
 
 def assign_santas():
