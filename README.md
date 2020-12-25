@@ -2,7 +2,7 @@
 #### Python-streamlit webapp to manage secret santa giftee assignments
 
 
-This is a remote no-unintentional-cheat secret santa giftee assignment (assuming the Mod doesn't go rogue). 
+This is a just-for-fun, remote, no-unintentional-cheat secret santa giftee assignment (assuming the Mod doesn't go rogue). 
 How it works:
 1. Spin up the webapp using `streamlit run secret-santa.py` command. 
 2. Start a new instance after entering all player names separated by commas.
